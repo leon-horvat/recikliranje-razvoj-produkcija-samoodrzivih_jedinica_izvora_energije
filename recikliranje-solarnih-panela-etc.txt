@@ -1,0 +1,32 @@
+RECIKLIRANJE SOLARNIH PANELA I BATERIJA TE NJIHOVA EVENTUALNA BUDUĆA PROIZVODNJA 
+
+Motivacija: Potražnja za solarnim panelima ima trend porasta, a njihova učinkovitost se također povećava s novim istraživanjima fizike materijala.
+Recikliranjem solarnih panela može se vratiti oko 90% materijala od kojeg su načinjene. Reciklažnih centara ima u današnje vrijeme (ožujak 2024.) samo u Njemačkoj i to u manjem broju.
+Procjene su da će se u u idućih 5 do 10 godina potreba za reciklažnim centrima solarnih panela u velikoj mjeri povećavati.
+Državne i međunarodne institucije će vjerojatno izdašno financirati ovakav samoodrživi perspektivni projekt, štoviše, društva koja će biti pioniri u realizaciji sličnih projekata biti će u velikoj prednosti u pogledu kapitala u tržišnom natjecanju
+
+Ideja: Oformiti računalno vođen, po mogućnosti, u potpunosti auotmatiziran proces recikliranja panela te pretpostavke za eventualnu buduću proizvodnju.
+Sa solarnim panelima prirodno ide produkcija odgovarajućih baterija kao i njihova reciklaža. Također ide prirodno mogućnost recikliranja drugih vrsta baterija, primjerice onih električnih automobila.
+Eventualna proizvodnja novih jedinica iz recikliranih otvara prostor za odgovarajuće istraživanje i razvoj na visokoj razini.
+U dizajnu proceas automatizacije bitnu će ulogu igrati kadar računalnih stručnjaka - kojih će dio moći činiti primjerice studenti UNIN/RINF-a.
+
+Primjer realizacije: Grad Đurđevac ima infrastrukturu i položaj za ostvarenje pretpostavki projekta, a i političku volju zbog mogućnosti novih radnih mjesta. 
+
+Prijedlog osoba za kontakt u pogledu ideje ovog projekta:
+1) Silvija Gradečak - MIT(Massachussets Institute of Technology) Associate Professor 
+Područje istraživanja je fizika materijala te nanomaterijala uz, između ostalog, razvoja i istraživanja solarnih fotoćelija
+http://web.mit.edu/gradecakgroup/people.html
+2) Smoljan Božo, prof. dr. sc. - Sveučilište Sjever 
+bozo.smoljan@unin.hr - Iskustvo i stručnost na području recikliranja materijala
+3) Domagoj Frank, doc. dr.sc. -Sveučilište Sjever, pročelnik - Digitalna rješenja, vođenje i upravljanje projekata i ljudskih potencijala
+4) Gradski oci i odgovorne osobe političkog i pravnog života
+5) Poduzetnici i vanjski suradnici
+6) Moja malenkost Leon Horvat, mag. math. et phys. - predlagatelj i sudionik u projektu - Sveučilište Sjever, Računarstvo i informatika, predavač
+
+
+
+
+
+
+
+
